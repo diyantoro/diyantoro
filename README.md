@@ -36,31 +36,46 @@ I'm an **Informatics student** and **Back-End Developer** passionate about build
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,go,dart,kotlin,html,css" alt="Programming Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=java,python,php,js,ts,go,dart,kotlin,html,css"
+    alt="Programming Languages"
+  />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react,vue,nodejs,vite" alt="Frameworks and Libraries" />
+  <img
+    src="https://skillicons.dev/icons?i=laravel,react,vue,nodejs,vite"
+    alt="Frameworks and Libraries"
+  />
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" />
+  <img
+    src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"
+    alt="Databases"
+  />
 </p>
 
-### 🔧 Tools
+### 🔧 Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Development Tools" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"
+    alt="Development Tools"
+  />
 </p>
 
-### 🎨 Design
+### 🎨 Design Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools" />
+  <img
+    src="https://skillicons.dev/icons?i=figma,photoshop"
+    alt="Design Tools"
+  />
 </p>
 
 ---
@@ -93,8 +108,8 @@ I'm an **Informatics student** and **Back-End Developer** passionate about build
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=diyantoro&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
+    src="https://raw.githubusercontent.com/diyantoro/diyantoro/output/activity-graph.svg"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
@@ -115,7 +130,7 @@ I'm an **Informatics student** and **Back-End Developer** passionate about build
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=laravel,go,docker,react"
+    src="https://skillicons.dev/icons?i=laravel,go,react,docker,ts"
     alt="Currently Learning"
   />
 </p>
@@ -125,6 +140,7 @@ I'm continuously improving my knowledge in:
 - 🔥 **Laravel & REST API**
 - 🐹 **Golang**
 - ⚛️ **React & Modern Frontend**
+- 🟦 **TypeScript**
 - 🗄️ **Database Design & Optimization**
 - 🐳 **Docker & Deployment**
 - 🤖 **Artificial Intelligence**
@@ -147,24 +163,49 @@ I believe good software should be:
 ## 🌐 Connect With Me
 
 <p align="center">
+
   <a href="https://github.com/diyantoro">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      width="45"
+      alt="GitHub"
+    />
   </a>
+
   &nbsp;
+
   <a href="https://linkedin.com/in/DiyanToro">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="45"
+      alt="LinkedIn"
+    />
   </a>
+
   &nbsp;
+
   <a href="https://instagram.com/diyyant_">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
+    <img
+      src="https://skillicons.dev/icons?i=instagram"
+      width="45"
+      alt="Instagram"
+    />
   </a>
+
   &nbsp;
+
   <a href="https://x.com/diyyant_">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="X" />
+    <img
+      src="https://skillicons.dev/icons?i=twitter"
+      width="45"
+      alt="X"
+    />
   </a>
+
 </p>
 
 <p align="center">
+
   <a href="https://github.com/diyantoro">GitHub</a>
   •
   <a href="https://linkedin.com/in/DiyanToro">LinkedIn</a>
@@ -172,6 +213,7 @@ I believe good software should be:
   <a href="https://instagram.com/diyyant_">Instagram</a>
   •
   <a href="https://x.com/diyyant_">X</a>
+
 </p>
 
 ---
