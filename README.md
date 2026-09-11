@@ -108,7 +108,7 @@ I'm an **Informatics student** and **Back-End Developer** passionate about build
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/diyantoro/diyantoro/output/activity-graph.svg"
+    src="https://raw.githubusercontent.com/diyantoro/diyantoro/activity/activity-graph.svg"
     alt="GitHub Contribution Activity"
   />
 </p>
