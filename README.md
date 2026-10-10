@@ -7,14 +7,14 @@
   />
 </p>
 
+```html
 <p align="center">
-  <a href="https://github.com/diyantoro">
-    <img
-      src="https://komarev.com/ghpvc/?username=diyantoro&label=Profile%20Views&color=0e75b6&style=flat"
-      alt="Profile Views"
-    />
-  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=diyantoro&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
+```
 
 ---
 
