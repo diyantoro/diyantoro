@@ -7,12 +7,14 @@
   />
 </p>
 
+```html
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=diyantoro&label=Profile%20Views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=diyantoro&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat"
     alt="Profile Views"
   />
 </p>
+```
 
 ---
 
