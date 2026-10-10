@@ -7,14 +7,12 @@
   />
 </p>
 
-```html
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=diyantoro&label=Profile%20Views&color=0e75b6&style=flat"
     alt="Profile Views"
   />
 </p>
-```
 
 ---
 
@@ -163,7 +161,6 @@ I believe good software should be:
 ## 🌐 Connect With Me
 
 <p align="center">
-
   <a href="https://github.com/diyantoro">
     <img
       src="https://skillicons.dev/icons?i=github"
@@ -171,9 +168,7 @@ I believe good software should be:
       alt="GitHub"
     />
   </a>
-
   &nbsp;
-
   <a href="https://linkedin.com/in/DiyanToro">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
@@ -181,9 +176,7 @@ I believe good software should be:
       alt="LinkedIn"
     />
   </a>
-
   &nbsp;
-
   <a href="https://instagram.com/diyyant_">
     <img
       src="https://skillicons.dev/icons?i=instagram"
@@ -191,9 +184,7 @@ I believe good software should be:
       alt="Instagram"
     />
   </a>
-
   &nbsp;
-
   <a href="https://x.com/diyyant_">
     <img
       src="https://skillicons.dev/icons?i=twitter"
@@ -201,11 +192,9 @@ I believe good software should be:
       alt="X"
     />
   </a>
-
 </p>
 
 <p align="center">
-
   <a href="https://github.com/diyantoro">GitHub</a>
   •
   <a href="https://linkedin.com/in/DiyanToro">LinkedIn</a>
@@ -213,7 +202,6 @@ I believe good software should be:
   <a href="https://instagram.com/diyyant_">Instagram</a>
   •
   <a href="https://x.com/diyyant_">X</a>
-
 </p>
 
 ---
@@ -221,6 +209,7 @@ I believe good software should be:
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:7C3AED&height=120&section=footer"
+    width="100%"
     alt="Footer"
   />
 </p>
