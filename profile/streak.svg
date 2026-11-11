@@ -11,7 +11,7 @@
 
   <!-- Total Contributions -->
   <g transform="translate(50, 48)">
-    <text class="stat-number" fill="#70a5fd" text-anchor="middle" x="55">181</text>
+    <text class="stat-number" fill="#70a5fd" text-anchor="middle" x="55">183</text>
     <text class="stat-label" fill="#38bdae" text-anchor="middle" x="55" y="30">Total Contributions</text>
     <text class="date-range" text-anchor="middle" x="55" y="50">Past Year</text>
   </g>
@@ -25,7 +25,7 @@
     </svg>
     <text class="stat-number" fill="#70a5fd" text-anchor="middle" x="50" y="56">1</text>
     <text class="stat-label" fill="#bf91f3" text-anchor="middle" x="50" y="100">Current Streak</text>
-    <text class="date-range" text-anchor="middle" x="50" y="118">Nov 9, 2026</text>
+    <text class="date-range" text-anchor="middle" x="50" y="118">Nov 11, 2026</text>
   </g>
 
   <!-- Longest Streak -->
